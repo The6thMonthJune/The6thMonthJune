@@ -29,3 +29,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the6thmonthjune&show_icons=true&locale=en&layout=compact" alt="the6thmonthjune" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the6thmonthjune&" alt="the6thmonthjune" /></p>
+
+ <img src="https://camo.githubusercontent.com/bed077e98537eaab6f7a1bf122fac080c09ecc7035737cba28171d309efec8a5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736861726b26636f6c6f723d6772616469656e74266865696768743d313430" alt="shark" data-canonical-src="https://capsule-render.vercel.app/api?type=shark&amp;color=gradient&amp;height=140;rotate=180" style="max-width: 100%;">
