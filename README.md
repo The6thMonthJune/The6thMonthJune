@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Jun
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<h1 align="center">
+<img src="https://capsule-render.vercel.app/api??eight=400&text=Hi%👋,%I'm%Jun&desc=Hello%20capsule%20renderrender&fontSize=90" />
 </h1>
   
 <h3 align="center">A passionate frontend developer from South Korea</h3>
