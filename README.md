@@ -3,12 +3,16 @@
 <h1 align="center">
 </h1>
   
-<h3 align="center">A passionate developer from South Korea</h3>
-<h1>
-<p align="left"> - I can speak Korean🇰🇷, German🇩🇪 and English🇺🇸 </p>
-<p align="left"> - 📫 How to reach me **ttkd16@gmail.com** </p>
-</h1>
-<img align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" height="200"/>
+<h3 style="font-size:20px" align="center">A passionate developer from South Korea</h3>
+<h4>
+  <div>
+  <span style="font-size:15px" align="left"> - I can speak Korean🇰🇷, German🇩🇪 and English🇺🇸 </span> <br>
+  <span style="font-size:15px" align="left"> - 📫 How to reach me **ttkd16@gmail.com** </span>
+    <img align="right" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" height="200"/>
+  </div>
+</h4>
+
+<hr>
 
 <h3 align="left">🍦 Connect with me:</h3>
 <p align="left">
