@@ -79,7 +79,7 @@
 
 <h3 align="left">🎖️ Algorithm Level:</h3>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=the6thmonthjune)](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=the6thmonthjune)](https://solved.ac/the6thmonthjune)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the6thmonthjune&show_icons=true&locale=en&layout=compact" alt="the6thmonthjune" /></p>
 
